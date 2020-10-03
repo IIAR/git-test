@@ -1,3 +1,3 @@
 # git-test
-testing git
-testing create repo
+
+Training Create Repo
